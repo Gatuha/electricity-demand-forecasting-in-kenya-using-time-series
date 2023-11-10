@@ -1,1 +1,1 @@
-# electricity-demard-forecast-in-kenya
+# electricity-demand-forecast-in-kenya
